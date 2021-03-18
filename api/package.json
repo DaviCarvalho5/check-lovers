@@ -1,0 +1,13 @@
+{
+  "name": "check-lovers-api",
+  "version": "0.1.0-alpha",
+  "main": "index.js",
+  "author": "DaviCarvalho5",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

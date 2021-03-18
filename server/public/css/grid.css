@@ -1,0 +1,28 @@
+.container {
+  margin: 0 auto;
+  overflow: visible;
+  width: 940px;
+}
+
+.container::after {
+  content: "";
+  clear: both;
+}
+
+.grid-1  { width:  56px; margin: 0 11px }
+.grid-2  { width: 135px; margin: 0 11px }
+.grid-3  { width: 213px; margin: 0 11px }
+.grid-4  { width: 291px; margin: 0 11px }
+.grid-5  { width: 370px; margin: 0 11px }
+.grid-6  { width: 448px; margin: 0 11px }
+.grid-7  { width: 526px; margin: 0 11px }
+.grid-8  { width: 605px; margin: 0 11px }
+.grid-9  { width: 683px; margin: 0 11px }
+.grid-10 { width: 761px; margin: 0 11px }
+.grid-11 { width: 840px; margin: 0 11px }
+.grid-12 { width: 918px; margin: 0 11px }
+
+.grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, 
+.grid-7, .grid-8, .grid-9, .grid-10, .grid-11, .grid-12 {
+  float: left;
+}
