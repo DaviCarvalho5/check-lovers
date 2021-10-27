@@ -2,6 +2,9 @@
 
 # Check Lovers
 _v 0.1.0-beta_
+
+![Check Lovers Sreenshot](https://i.imgur.com/GobkHCX.png)
+
 ## O que é
 Um aplicativo de check list direto ao ponto e que pode ser acessado de qualquer dispositivo com internet.
 
